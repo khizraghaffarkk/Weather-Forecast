@@ -2,5 +2,5 @@ I have developed a small application using openweathermap API with HTML, CSS, an
 
 ---------------------------------
 Live Link:
-weather_forecast_data.surge.sh
+https://weather_forecast_data.surge.sh/
 ---------------------------------
